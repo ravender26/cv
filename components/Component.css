@@ -1,0 +1,11 @@
+ .parent {
+    display: flex;
+  }
+  
+  .child {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 2px;
+    flex: 1;
+  }
